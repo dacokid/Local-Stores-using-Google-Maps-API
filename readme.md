@@ -1,5 +1,8 @@
 # Plan Of Action
 
+**NOTE** You must get a Google Maps API Key in order to use this project.
+*Link: https://cloud.google.com/maps-platform/maps*
+
 - Import Google Maps into the Window -> DONE
 
 - Add the header `Store Locator` -> DONE
