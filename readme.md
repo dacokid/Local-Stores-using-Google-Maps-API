@@ -21,11 +21,7 @@
 
 - Open the info window of the marker on store selection in stores list -> DONE
 
-- Complete the styling for the marker info window -> HOMEWORK
-
 - Allow a user to search for stores in a zip code -> DONE
-
-- Add a beautiful transition on the hover of an individual store
 
 **DONE**
 
